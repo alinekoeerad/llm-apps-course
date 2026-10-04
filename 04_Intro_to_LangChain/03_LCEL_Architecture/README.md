@@ -7,11 +7,12 @@ This section introduces **LangChain Expression Language (LCEL)**. We transition 
 1. **[01_lcel_basics.ipynb](./01_lcel_basics.ipynb)**
    - Understanding the difference between the manual execution and LCEL.
    - Building a basic chain: `Prompt | Model | OutputParser`.
-   - Using `StrOutputParser` to extract raw strings from AI Messages.
-   - Swapping chain components like Lego blocks using `CommaSeparatedListOutputParser`.
 
 2. **[02_runnable_parallel.ipynb](./02_runnable_parallel.ipynb)**
    - Using `RunnableParallel` to execute multiple chains concurrently.
-   - Decreasing overall latency by running independent tasks simultaneously.
-   - Combining parallel outputs into a final summary chain.
-   - **Educational Teaser:** Understanding why variables get lost in parallel chains (setting the stage for `RunnablePassthrough`).
+   - Educational Teaser: Missing variables in parallel execution.
+
+3. **[03_injecting_python_logic.ipynb](./03_injecting_python_logic.ipynb)**
+   - Wrapping standard Python functions using `RunnableLambda`.
+   - Injecting custom logic (e.g., text cleaning, word counting) seamlessly into LCEL pipelines.
+   - Real-world use case: Safely extracting and parsing JSON objects from raw LLM outputs.
