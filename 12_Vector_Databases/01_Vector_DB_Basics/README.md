@@ -1,0 +1,6 @@
+# Vector Db Basics
+
+Codes and exercises for this sub-topic.
+
+## Scripts
+- (To be added)
