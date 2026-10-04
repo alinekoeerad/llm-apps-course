@@ -14,5 +14,9 @@ This section introduces **LangChain Expression Language (LCEL)**. We transition 
 
 3. **[03_injecting_python_logic.ipynb](./03_injecting_python_logic.ipynb)**
    - Wrapping standard Python functions using `RunnableLambda`.
-   - Injecting custom logic (e.g., text cleaning, word counting) seamlessly into LCEL pipelines.
-   - Real-world use case: Safely extracting and parsing JSON objects from raw LLM outputs.
+   - Real-world use case: Safely extracting JSON objects.
+
+4. **[04_runnable_passthrough.ipynb](./04_runnable_passthrough.ipynb)**
+   - Using `RunnablePassthrough` to preserve data through the pipeline.
+   - Building a mini-RAG simulator to pass queries untouched alongside external contexts.
+   - Using `.assign()` to append new data to existing dictionaries dynamically.
