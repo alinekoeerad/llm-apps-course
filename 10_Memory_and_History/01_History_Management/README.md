@@ -1,6 +1,6 @@
 # History Management
 
-Codes and exercises for this sub-topic.
+مدیریت تاریخچه مکالمات و نگهداری زمینه (Context) در LangChain.
 
-## Scripts
-- (To be added)
+## Scripts & Notebooks
+- [`01_chat_history.ipynb`](./01_chat_history.ipynb): پیاده‌سازی پایه نگهداری تاریخچه گفتگو با `ChatMessageHistory` و ساخت چت‌بات چندمرحله‌ای به همراه استریمینگ.
