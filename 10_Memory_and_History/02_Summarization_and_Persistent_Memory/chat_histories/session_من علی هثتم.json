@@ -1,0 +1,434 @@
+[
+  {
+    "type": "human",
+    "data": {
+      "content": "میخواهم یک تیم فوتبال رو نام ببرم و تو بهم یک تیم همشهری اون رو بهم بگی بدون هیچ توضیحات اضافه ای و اگر اون تیم تنها تیم اون شهره فقط یک کلمه بگو نداره یا اگر تو نمیدونی بگو نمیدونم",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "AIMessageChunk",
+    "data": {
+      "content": [
+        {
+          "type": "text",
+          "text": "چشم، آماده‌ام. نام تیم را بگو.",
+          "index": 0,
+          "extras": {
+            "signature": "EmAKXgFpFH0Tuqlt+4SCBiPjrs+NbuAeHw1y4rlDK7sz0B9Hx4Sw19TYMkLACTsL8c/+riu6VKjs/M4xuX2fxbm4XT/13eHEV8gDhQW++0SA2lXbKG2sK78lfZAd1L2CwQk="
+          }
+        }
+      ],
+      "additional_kwargs": {},
+      "response_metadata": {
+        "safety_ratings": [],
+        "model_provider": "google_genai",
+        "finish_reason": "STOP",
+        "model_name": "gemini-3.5-flash-lite"
+      },
+      "type": "AIMessageChunk",
+      "name": null,
+      "id": "lc_run--01a1c62c-be2a-7105-a6f6-7a99e917e4c0",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": {
+        "input_tokens": 77,
+        "output_tokens": 13,
+        "total_tokens": 90,
+        "input_token_details": {
+          "cache_read": 0
+        }
+      },
+      "tool_call_chunks": [],
+      "chunk_position": "last"
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "رعال مادرید",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "AIMessageChunk",
+    "data": {
+      "content": [
+        {
+          "type": "text",
+          "text": "اتلتیکو مادرید",
+          "index": 0,
+          "extras": {
+            "signature": "EmAKXgFpFH0TNZEMItb+tGznG/b2euPN0LPeaSo2hWMogmfI1hxW7MsLTLOvsMnIpBd3BhqG41y3KMh7dL4YatIq40d3sfjKFsP5DCJvrvwb4+AlGnAJ89sac4LBv8LF01E="
+          }
+        }
+      ],
+      "additional_kwargs": {},
+      "response_metadata": {
+        "safety_ratings": [],
+        "model_provider": "google_genai",
+        "finish_reason": "STOP",
+        "model_name": "gemini-3.5-flash-lite"
+      },
+      "type": "AIMessageChunk",
+      "name": null,
+      "id": "lc_run--01a1c62c-d595-71be-8026-20cc1e80348f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": {
+        "input_tokens": 96,
+        "output_tokens": 6,
+        "total_tokens": 102,
+        "input_token_details": {
+          "cache_read": 0
+        }
+      },
+      "tool_call_chunks": [],
+      "chunk_position": "last"
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "بارثلونا",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "AIMessageChunk",
+    "data": {
+      "content": [
+        {
+          "type": "text",
+          "text": "اسپانیول",
+          "index": 0,
+          "extras": {
+            "signature": "EmAKXgFpFH0TMjtUvZ3ZOngW0S3jb362qR5V8Nf2F/YON0HiP0olzOXhItpxoA/cR0b/4vxlKlf9CG8IO1ZuqjCjc9lH48kFiIYJuJgMr4o/srscJYnMllfkwVkaJW5aul4="
+          }
+        }
+      ],
+      "additional_kwargs": {},
+      "response_metadata": {
+        "safety_ratings": [],
+        "model_provider": "google_genai",
+        "finish_reason": "STOP",
+        "model_name": "gemini-3.5-flash-lite"
+      },
+      "type": "AIMessageChunk",
+      "name": null,
+      "id": "lc_run--01a1c62c-e50b-740f-b3e4-a6eb9d6f4b2a",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": {
+        "input_tokens": 107,
+        "output_tokens": 4,
+        "total_tokens": 111,
+        "input_token_details": {
+          "cache_read": 0
+        }
+      },
+      "tool_call_chunks": [],
+      "chunk_position": "last"
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "بایرن مونیخ",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "AIMessageChunk",
+    "data": {
+      "content": [
+        {
+          "type": "text",
+          "text": "مونیخ ۱۸۶۰",
+          "index": 0,
+          "extras": {
+            "signature": "EmAKXgFpFH0TA1nTI+MmL+voGvGwEWWL+oFC/TFACHjZRxNSpwLEBb2QwXsSC+S8H9Hr1yvFi6mTVg38jw+1eBlDSKBxSyci5L46P868mP7AFlvsy8GMeFmGneq4k8kKEzc="
+          }
+        }
+      ],
+      "additional_kwargs": {},
+      "response_metadata": {
+        "safety_ratings": [],
+        "model_provider": "google_genai",
+        "finish_reason": "STOP",
+        "model_name": "gemini-3.5-flash-lite"
+      },
+      "type": "AIMessageChunk",
+      "name": null,
+      "id": "lc_run--01a1c62d-36c3-752f-9a2d-907699173194",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": {
+        "input_tokens": 119,
+        "output_tokens": 7,
+        "total_tokens": 126,
+        "input_token_details": {
+          "cache_read": 0
+        }
+      },
+      "tool_call_chunks": [],
+      "chunk_position": "last"
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "تاتنهام",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "AIMessageChunk",
+    "data": {
+      "content": [
+        {
+          "type": "text",
+          "text": "آرسنال",
+          "index": 0,
+          "extras": {
+            "signature": "EmAKXgFpFH0TDx/9vJJZGEqQ1H+TURszdVq5CBtJCbyMM9k/DtttqtpHZhNMs/5puzF0gkgQ85KETm56GJZiW6HMhb90JcAfbPqFZXQWSE+wLCd5FwaR/qxmGTsxULF865M="
+          }
+        }
+      ],
+      "additional_kwargs": {},
+      "response_metadata": {
+        "safety_ratings": [],
+        "model_provider": "google_genai",
+        "finish_reason": "STOP",
+        "model_name": "gemini-3.5-flash-lite"
+      },
+      "type": "AIMessageChunk",
+      "name": null,
+      "id": "lc_run--01a1c62d-4529-7685-a1b3-45990f8ae023",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": {
+        "input_tokens": 132,
+        "output_tokens": 4,
+        "total_tokens": 136,
+        "input_token_details": {
+          "cache_read": 0
+        }
+      },
+      "tool_call_chunks": [],
+      "chunk_position": "last"
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "اثتقلال شوشتر",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "AIMessageChunk",
+    "data": {
+      "content": [
+        {
+          "type": "text",
+          "text": "نمیدونم",
+          "index": 0,
+          "extras": {
+            "signature": "EmAKXgFpFH0T599yP/n4FFNxYDwmrFi2RKs+Nkpibj/BRKkQUPPr0kGBOPg1daYSNi3jbePiJntehNvw8atf2mvovNp+WOVrt4n9R8x1YP8KzkA7oKIedLO6l+0u9bSS/14="
+          }
+        }
+      ],
+      "additional_kwargs": {},
+      "response_metadata": {
+        "safety_ratings": [],
+        "model_provider": "google_genai",
+        "finish_reason": "STOP",
+        "model_name": "gemini-3.5-flash-lite"
+      },
+      "type": "AIMessageChunk",
+      "name": null,
+      "id": "lc_run--01a1c62d-8207-77ad-afb6-ed2df4271e4d",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": {
+        "input_tokens": 144,
+        "output_tokens": 3,
+        "total_tokens": 147,
+        "input_token_details": {
+          "cache_read": 0
+        }
+      },
+      "tool_call_chunks": [],
+      "chunk_position": "last"
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "اثم من چی بود",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "AIMessageChunk",
+    "data": {
+      "content": [
+        {
+          "type": "text",
+          "text": "پرسیدی اسم من چی بود.",
+          "index": 0,
+          "extras": {
+            "signature": "EmAKXgFpFH0TW7hZip37p0DmXgJF81KmnHrDY+Vm4bbPBpsPHh25k5etJK71d2EEdP/Zk3yGS58vSPxY8g5h608Ei6qvzJghliy20XpHvTaNpPwuqfk05mn1hZMxJSDwZnU="
+          }
+        }
+      ],
+      "additional_kwargs": {},
+      "response_metadata": {
+        "safety_ratings": [],
+        "model_provider": "google_genai",
+        "finish_reason": "STOP",
+        "model_name": "gemini-3.5-flash-lite"
+      },
+      "type": "AIMessageChunk",
+      "name": null,
+      "id": "lc_run--01a1c62d-cb5a-706e-b37d-89531d936203",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": {
+        "input_tokens": 154,
+        "output_tokens": 7,
+        "total_tokens": 161,
+        "input_token_details": {
+          "cache_read": 0
+        }
+      },
+      "tool_call_chunks": [],
+      "chunk_position": "last"
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "خب اول چت بهت گفته بودم اثم من چیه",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "AIMessageChunk",
+    "data": {
+      "content": [
+        {
+          "type": "text",
+          "text": "تو نگفته بودی! اول چت فقط پیامی از اسم تو نبود.",
+          "index": 0,
+          "extras": {
+            "signature": "EmAKXgFpFH0Th6RvkgD2rf6tOfQeMQsa+dzm70CKc3ab4TCbkxpiA8jFFuK5ML8lmkzD9MPMMq21pqRXZUN+f/c9EI+3/WxF1RhKwprW1LCKj7wJ8sa6U6nY4Jb2/z4N/Wc="
+          }
+        }
+      ],
+      "additional_kwargs": {},
+      "response_metadata": {
+        "safety_ratings": [],
+        "model_provider": "google_genai",
+        "finish_reason": "STOP",
+        "model_name": "gemini-3.5-flash-lite"
+      },
+      "type": "AIMessageChunk",
+      "name": null,
+      "id": "lc_run--01a1c62e-2802-7114-ace8-223fb7009a14",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": {
+        "input_tokens": 176,
+        "output_tokens": 17,
+        "total_tokens": 193,
+        "input_token_details": {
+          "cache_read": 0
+        }
+      },
+      "tool_call_chunks": [],
+      "chunk_position": "last"
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "افرین",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "AIMessageChunk",
+    "data": {
+      "content": [
+        {
+          "type": "text",
+          "text": "ممنون! چطور می‌توانم کمکت کنم؟",
+          "index": 0,
+          "extras": {
+            "signature": "EmAKXgFpFH0TXHfowKEOxbKaG9FbVe14hc0IxpPaouSIaPoTGm34V/1siqdYBD/f3it1YM5f7F54iZHPL8NcFuqwd141uFBDF77ASR0+al1CWsRlbDfS3GSN2b6tb0Eiylc="
+          }
+        }
+      ],
+      "additional_kwargs": {},
+      "response_metadata": {
+        "safety_ratings": [],
+        "model_provider": "google_genai",
+        "finish_reason": "STOP",
+        "model_name": "gemini-3.5-flash-lite"
+      },
+      "type": "AIMessageChunk",
+      "name": null,
+      "id": "lc_run--01a1c62e-8375-776d-b06e-2216b8990f86",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": {
+        "input_tokens": 197,
+        "output_tokens": 12,
+        "total_tokens": 209,
+        "input_token_details": {
+          "cache_read": 0
+        }
+      },
+      "tool_call_chunks": [],
+      "chunk_position": "last"
+    }
+  }
+]
