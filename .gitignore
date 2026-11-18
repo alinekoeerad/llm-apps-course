@@ -8,4 +8,9 @@ venv/
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
+# Vector DBs
+chroma_db/
+*.sqlite3
+
 PROJECT_CONTEXT_FOR_AI.md
+
