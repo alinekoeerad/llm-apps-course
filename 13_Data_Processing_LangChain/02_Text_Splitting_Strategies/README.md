@@ -4,3 +4,4 @@
 
 ## Scripts & Notebooks
 - [`01_text_splitting_strategies.ipynb`](./01_text_splitting_strategies.ipynb): تمثیل کیک عروسی و مفهوم کپسول معنایی، مقایسه شکست `CharacterTextSplitter` در برابر الگوریتم سلسله‌مراتبی `RecursiveCharacterTextSplitter`، بهینه‌سازی جداکننده‌ها برای زبان فارسی و نیم‌فاصله، و راهنمای انتخاب اندازه چانک (`chunk_size`).
+- [`02_context_preservation_and_overlap.ipynb`](./02_context_preservation_and_overlap.ipynb): هنر حفظ بافتار، تراژدی «ضمیرهای سرگردان»، تکنیک همپوشانی چانک‌ها (`chunk_overlap`) و نسبت بهینه ۱۰٪ تا ۲۰٪، ارث‌بری خودکار متادیتای والد به فرزندان با `split_documents`، متادیتای بافتی با `MarkdownHeaderTextSplitter`، و خط لوله دو مرحله‌ای (Two-Stage Chunking).
